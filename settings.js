@@ -16,9 +16,9 @@ global.ONLY_GROUPS = false // Only Groups Use
 /*
 🤖 𝗕𝗢𝗧 𝗜𝗡𝗙𝗢 𝗦𝗘𝗧𝗧𝗜𝗡𝗚𝗦
 */
-global.OWNER_NAME = 'Dark Maker Ofc' // Owner Name
-global.OWNER_NUMBER = ['94715166712'] //Owner Number
-global.BOT_ADMINS = ['94715166712','94715166712'] //Bot admins numbers
+global.OWNER_NAME = 'ᴋɪɴɢ ꜱᴀꜱᴍɪᴛʜᴀ ᴀɪ ᴄʜᴀᴛ ʙᴏᴛ' // Owner Name
+global.OWNER_NUMBER = ['94719702508'] //Owner Number
+global.BOT_ADMINS = ['94715166712','94719702508'] //Bot admins numbers
 global.BLOCK_CHAT = [] // If you want Block Bot From Chats Use .jid Command and put Jids
 
 
@@ -28,7 +28,7 @@ global.BLOCK_CHAT = [] // If you want Block Bot From Chats Use .jid Command and 
 > Ai Bot Password Get From Watching This Video 
 */
 global.AI_PASSWORD = 'King-nima-gpt-bot'
-global.SESSION_ID = ''
+global.SESSION_ID = 'elisa_md@;;;VR0x3CIT#lRusC7MVrzjfQltBrQqM3ZvwESbNqrnL_kTZk97RDFM'
 
 /*
 🎲 𝗢𝗧𝗛𝗘𝗥 𝗦𝗘𝗧𝗜𝗡𝗚𝗦
